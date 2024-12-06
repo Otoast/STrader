@@ -1,0 +1,6 @@
+numpy
+requests
+urllib3
+python-dateutil
+polygon-api-client
+alpaca-py
